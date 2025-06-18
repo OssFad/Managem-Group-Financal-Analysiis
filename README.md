@@ -1,4 +1,10 @@
-# Managem Group Financial Analysis
+# 📊 Managem Group Financial Analysis
+
+![Alt Text](https://github.com/OssFad/Managem-Group-Financal-Analysiis/blob/main/Capture.PNG)
+
+##  Link to Visualize the Dashboard
+
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGRiYmQwZTUtZDdiYy00OTE2LTk0MTItOTRhNTdmMmJiODQ3IiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
 
 This project presents a comprehensive financial analysis of **Managem Group**, utilizing Python for data scraping, processing, and visualization. The analysis covers key financial dimensions including **activity**, **liquidity**, **solvency**, **profitability**, and **valuation**.
 
